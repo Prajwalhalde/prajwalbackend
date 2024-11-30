@@ -1,10 +1,10 @@
-package com.Jivak.joblisting.repository;
+package com.Prajwal.joblisting.repository;
 
 import com.mongodb.client.AggregateIterable;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
-import com.Jivak.joblisting.model.Post;
+import com.Prajwal.joblisting.model.Post;
 import org.bson.Document;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.convert.MongoConverter;

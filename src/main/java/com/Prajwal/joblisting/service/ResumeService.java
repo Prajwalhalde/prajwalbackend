@@ -1,8 +1,8 @@
-package com.Jivak.joblisting.service;
+package com.Prajwal.joblisting.service;
 
 
-import com.Jivak.joblisting.model.Resume;
-import com.Jivak.joblisting.repository.ResumeRepository;
+import com.Prajwal.joblisting.model.Resume;
+import com.Prajwal.joblisting.repository.ResumeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;

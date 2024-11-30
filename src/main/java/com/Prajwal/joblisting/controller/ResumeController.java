@@ -1,7 +1,7 @@
-package com.Jivak.joblisting.controller;
+package com.Prajwal.joblisting.controller;
 
-import com.Jivak.joblisting.model.Resume;
-import com.Jivak.joblisting.service.ResumeService;
+import com.Prajwal.joblisting.model.Resume;
+import com.Prajwal.joblisting.service.ResumeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

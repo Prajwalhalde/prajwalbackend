@@ -1,8 +1,8 @@
-package com.Jivak.joblisting.controller;
+package com.Prajwal.joblisting.controller;
 
-import com.Jivak.joblisting.repository.PostRepository;
-import com.Jivak.joblisting.model.Post;
-import com.Jivak.joblisting.repository.SearchRepository;
+import com.Prajwal.joblisting.repository.PostRepository;
+import com.Prajwal.joblisting.model.Post;
+import com.Prajwal.joblisting.repository.SearchRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import springfox.documentation.annotations.ApiIgnore;

@@ -1,7 +1,7 @@
-package com.Jivak.joblisting.service;
+package com.Prajwal.joblisting.service;
 
-import com.Jivak.joblisting.model.User;
-import com.Jivak.joblisting.repository.UserRepository;
+import com.Prajwal.joblisting.model.User;
+import com.Prajwal.joblisting.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

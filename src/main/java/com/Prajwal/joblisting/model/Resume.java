@@ -1,4 +1,4 @@
-package com.Jivak.joblisting.model;
+package com.Prajwal.joblisting.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

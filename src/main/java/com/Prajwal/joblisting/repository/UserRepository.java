@@ -1,7 +1,7 @@
-package com.Jivak.joblisting.repository;
+package com.Prajwal.joblisting.repository;
 
 
-import com.Jivak.joblisting.model.User;
+import com.Prajwal.joblisting.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

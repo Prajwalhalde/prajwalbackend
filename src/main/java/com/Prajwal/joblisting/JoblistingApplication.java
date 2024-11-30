@@ -1,4 +1,4 @@
-package com.Jivak.joblisting;
+package com.Prajwal.joblisting;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

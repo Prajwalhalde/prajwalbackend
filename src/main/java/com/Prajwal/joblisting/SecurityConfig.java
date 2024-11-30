@@ -1,4 +1,4 @@
-package com.Jivak.joblisting;
+package com.Prajwal.joblisting;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

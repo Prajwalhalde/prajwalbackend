@@ -1,6 +1,6 @@
-package com.Jivak.joblisting.repository;
+package com.Prajwal.joblisting.repository;
 
-import com.Jivak.joblisting.model.Post;
+import com.Prajwal.joblisting.model.Post;
 
 import java.util.List;
 
